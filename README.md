@@ -6,7 +6,7 @@ Olá! Sou Carolina Sezefredo, uma profissional apaixonada por tecnologia e desen
 
 - **Salesforce:** Experiência sólida em Gerenciamento de Projetos e implementação de soluções CRM.
 - **Desenvolvimento:** Comprometido(a) em aprender e aprimorar minhas habilidades em desenvolvimento.
-- **Inovação:** Apaixonado(a) por criar soluções inovadoras e impactantes que atendam às necessidades do cliente.
+- **Inovação:** Apaixonada por criar soluções inovadoras e impactantes que atendam às necessidades do cliente.
 
 ## 🌱 Objetivos
 
